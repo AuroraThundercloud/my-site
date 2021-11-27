@@ -165,6 +165,17 @@ body {
   color: #ffffff;
 }
 
+.snake {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #64df1d;
+  color: #ffffff;
+}
+
 .page-footer {
   padding: 40px 0;
   background-color: #260c26;
